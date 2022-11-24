@@ -1,0 +1,211 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553413.png" group-title="Aventura e documentários", ANIMAL PLANET FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5191?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553430.png" group-title="Aventura e documentários", DISCOVERY CHANNEL FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5203?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553433.png" group-title="Aventura e documentários", DISCOVERY SCIENCE FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5207?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553434.png" group-title="Aventura e documentários", DISCOVERY THEATER FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5208?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553463.png" group-title="Aventura e documentários", HGTV FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5204?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553464.png" group-title="Aventura e documentários", HISTORY 2 FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5235?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553465.png" group-title="Aventura e documentários", HISTORY CHANNEL HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5084?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553466.png" group-title="Aventura e documentários", HISTORY FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5234?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553471.png" group-title="Aventura e documentários", NATGEO WILD FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923829?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553472.png" group-title="Aventura e documentários", NATIONAL GEOGRAPHIC FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/104677?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553412.png" group-title="Cinematográfico", A&E FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5189?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553411.png" group-title="Cinematográfico", AMC FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5190?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553414.png" group-title="Cinematográfico", AXN FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5192?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553419.png" group-title="Cinematográfico", CANAL BRASIL FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5197?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553422.png" group-title="Cinematográfico", CINE BRASIL
+http://168.205.87.198:8555/live/michele/123456/145.ts?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553424.png" group-title="Cinematográfico", CINE CANAL HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923563?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553425.png" group-title="Cinematográfico", CINEMAX FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5200?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553429.png" group-title="Cinematográfico", COMEDY CENTRAL FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5202?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553451.png" group-title="Cinematográfico", HBO 2 FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/17912?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553452.png" group-title="Cinematográfico", HBO FAMILY FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5229?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553453.png" group-title="Cinematográfico", HBO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/355045?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553454.png" group-title="Cinematográfico", HBO MAX 1 HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/355727?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553455.png" group-title="Cinematográfico", HBO MAX 2 HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/355728?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553456.png" group-title="Cinematográfico", HBO MAX 3 HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923175?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553457.png" group-title="Cinematográfico", HBO MAX 4 HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/355730?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553458.png" group-title="Cinematográfico", HBO MUNDI FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5239?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553459.png" group-title="Cinematográfico", HBO PLUS HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923015?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553460.png" group-title="Cinematográfico", HBO POP FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5241?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553461.png" group-title="Cinematográfico", HBO SIGNATURE FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5082?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553462.png" group-title="Cinematográfico", HBO XTREME FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5240?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553468.png" group-title="Cinematográfico", MEGAPIX FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5242?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553477.png" group-title="Cinematográfico", PARAMOUNT FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5251?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553485.png" group-title="Cinematográfico", PRIME BOX BRASIL HD
+http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/11044?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553493.png" group-title="Cinematográfico", SPACE FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5261?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553497.png" group-title="Cinematográfico", STAR CHANNEL FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5220?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553498.png" group-title="Cinematográfico", STUDIO UNIVERSAL FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5265?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553499.png" group-title="Cinematográfico", SYFY FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5266?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553500.png" group-title="Cinematográfico", TBS FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5267?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553501.png" group-title="Cinematográfico", TCM FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923901?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553502.png" group-title="Cinematográfico", TELECINE ACTION FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5268?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553503.png" group-title="Cinematográfico", TELECINE CULT FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5269?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553504.png" group-title="Cinematográfico", TELECINE FUN FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5270?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553505.png" group-title="Cinematográfico", TELECINE PIPOCA FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5271?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553506.png" group-title="Cinematográfico", TELECINE PREMIUM FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5272?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553507.png" group-title="Cinematográfico", TELECINE TOUCH FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5273?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553509.png" group-title="Cinematográfico", TNT FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5275?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553510.png" group-title="Cinematográfico", TNT SERIES HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5124?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553513.png" group-title="Cinematográfico", TV UNIVERSAL SD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/374385?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553514.png" group-title="Cinematográfico", WARNER CHANNEL FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5282?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553469.png" group-title="Entretenimento, artes e variedades", MULTISHOW FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5244?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553470.png" group-title="Entretenimento, artes e variedades", MUSIC BOX BRAZIL SD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/45325?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553418.png" group-title="Esportivos", BAND SPORTS FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5194?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553428.png" group-title="Esportivos", COMBATE FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5201?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553438.png" group-title="Esportivos", ESPN 2 FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5216?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553439.png" group-title="Esportivos", ESPN 3 FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465905?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553440.png" group-title="Esportivos", ESPN 4 FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465908?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553441.PNG" group-title="Esportivos", ESPN EXTRA FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5214?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553442.png" group-title="Esportivos", ESPN FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5215?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553443.png" group-title="Esportivos", FISH TV
+http://168.205.87.198:8555/live/michele/123456/62.ts?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553445.png" group-title="Esportivos", FOX SPORTS 2 FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5224?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553478.png" group-title="Esportivos", PREMIERE 2 FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/128493?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553479.png" group-title="Esportivos", PREMIERE 3 FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5254?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553480.png" group-title="Esportivos", PREMIERE 4 HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5102?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553481.png" group-title="Esportivos", PREMIERE 5 FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5256?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553482.png" group-title="Esportivos", PREMIERE 6 FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5257?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553483.png" group-title="Esportivos", PREMIERE 7 FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5258?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553484.png" group-title="Esportivos", PREMIERE CLUBES FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/372983?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553494.png" group-title="Esportivos", SPORTV 2 FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5262?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553495.png" group-title="Esportivos", SPORTV 3 FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5263?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553496.png" group-title="Esportivos", SPORTV FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/29359?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553431.png" group-title="Estilo de vida", DISCOVERY H&H FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5205?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553435.png" group-title="Estilo de vida", DISCOVERY TURBO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5209?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553436.png" group-title="Estilo de vida", DISCOVERY WORLD FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5210?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553444.png" group-title="Estilo de vida", FOOD NETWORK HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5066?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553450.png" group-title="Estilo de vida", GNT FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5228?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553467.png" group-title="Estilo de vida", LIFETIME FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5237?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553476.png" group-title="Estilo de vida", OFF! FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5250?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553508.png" group-title="Estilo de vida", TLC FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5274?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553417.png" group-title="TV aberta", BAND RJ FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/453180?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553427.png" group-title="TV aberta", CNT
+http://168.205.87.198:8555/live/1431/123456/150.ts?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553447.png" group-title="TV aberta", GLOBO RJ FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5352?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553487.png" group-title="TV aberta", RECORD SP FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/57255?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553488.png" group-title="TV aberta", REDE BRASIL HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/374283?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553489.png" group-title="TV aberta", REDE TV FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/354855?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553492.png" group-title="TV aberta", SBT SP FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/68532?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553415.png" group-title="Infantis", BABY TV HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/38437?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553420.png" group-title="Infantis", CARTOON NETWORK FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5199?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553421.png" group-title="Infantis", CARTOONITO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5196?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553423.png" group-title="Infantis", CHESPIRITO
+http://168.205.87.198:8555/live/michele/123456/159.ts?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553432.png" group-title="Infantis", DISCOVERY KIDS FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5206?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553437.png" group-title="Infantis", DISNEY CHANNEL FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5211?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553448.png" group-title="Infantis", GLOOB FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5227?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553449.png" group-title="Infantis", GLOOBINHO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/374296?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553473.png" group-title="Infantis", NICK JR FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5249?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553474.png" group-title="Infantis", NICKELODEON FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5248?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553512.png" group-title="Infantis", TV RA TIM BUM FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465346?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553515.png" group-title="Infantis", ZOOMOO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923858?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553416.png" group-title="Jornalísticos", BAND NEWS HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5160?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553426.png" group-title="Jornalísticos", CNN BRASIL FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5285?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553446.png" group-title="Jornalísticos", GLOBO NEWS FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/45264?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553486.png" group-title="Jornalísticos", RECORD NEWS FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/115704?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553475.png" group-title="Religiosos", NOVO TEMPO FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/374361?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553490.png" group-title="Religiosos", REDE VIDA
+http://168.205.87.198:8555/live/1431/123456/103.ts?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553491.png" group-title="Religiosos", RIT
+http://168.205.87.198:8555/live/1431/123456/168.ts?checkedby:iptvcat.com
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5489a70-6c17-11ed-8018-6bc210402c60/3924944/697553511.png" group-title="Religiosos", TV APARECIDA
+http://168.205.87.198:8555/live/1221/123456/131.ts?checkedby:iptvcat.com
